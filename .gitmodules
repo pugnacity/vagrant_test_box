@@ -1,0 +1,15 @@
+[submodule "modules/concat"]
+	path = modules/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "modules/datadog_agent"]
+	path = modules/datadog_agent
+	url = https://github.com/DataDog/puppet-datadog-agent.git
+[submodule "modules/ruby"]
+	path = modules/ruby
+	url = https://github.com/puppetlabs/puppetlabs-ruby.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/datadog_checks"]
+	path = modules/datadog_checks
+	url = https://github.com/pugnacity/datadog_checks.git
