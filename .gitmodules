@@ -1,15 +1,20 @@
 [submodule "modules/concat"]
 	path = modules/concat
 	url = https://github.com/puppetlabs/puppetlabs-concat.git
+	fetchrecursesubmodules = true
 [submodule "modules/datadog_agent"]
 	path = modules/datadog_agent
 	url = https://github.com/DataDog/puppet-datadog-agent.git
+	fetchrecursesubmodules = true
 [submodule "modules/ruby"]
 	path = modules/ruby
 	url = https://github.com/puppetlabs/puppetlabs-ruby.git
+	fetchrecursesubmodules = true
 [submodule "modules/stdlib"]
 	path = modules/stdlib
 	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+	fetchrecursesubmodules = true
 [submodule "modules/datadog_checks"]
 	path = modules/datadog_checks
 	url = https://github.com/pugnacity/datadog_checks.git
+	fetchrecursesubmodules = true
